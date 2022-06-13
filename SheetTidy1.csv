@@ -1,0 +1,32 @@
+key_ID,family_name,given_name,middle_name,birthplace_location,birthplace_country,birth_day,birth_month,birth_year,death_year,death_age,monument,type,plaque_number
+,,,,,,,,,,,,,
+CEM001,Allen,Edward,NULL,Kingsbury,England,NULL,NULL,1815,1874,58,No,plaque,155
+CEM002,Sims,Gwendoline,May,Derbyshire,Wales,17,October,1910,2004,93,Yes,gravestone,NULL
+CEM003,Grenier,Ernest,Pannell,Oxley,Australia,4,April,1876,1943,67,No,plaque,NULL
+CEM004,Compton,Edwin,NULL,Ashwick,England,NULL,NULL,1851,1942,91,No,Unmarked,NULL
+CEM005,Calam,Alice,NULL,Yorkshire,England,NULL,July,1859,1928,68,No,Unmarked,NULL
+CEM006,Calam,Elizabeth,NULL,Yorkshire,England,8,July,1861,1919,58,Yes,gravestone,NULL
+CEM007,Zigenfusz,Christian,Charles,Seventeen Mile Rocks,Australia,15,September,1871,1881,9,NULL,NULL,NULL
+CEM008,Vine,Frank,Penrith,NULL,Australia,25,February,1919,1920,1,NULL,NULL,NULL
+CEM009,Wagner,Maria,Matilda,Kesh,Ireland,NULL,NULL,NULL,1957,83,NULL,NULL,NULL
+CEM010,Tully,Noel,Wilfred,NULL,Australia,NULL,NULL,NULL,1927,6,NULL,NULL,NULL
+CEM011,Westaway,Edwin,NULL,Tiverton,England,7,November,1839,1923,84,yes,gravestone,NULL
+CEM012,Unwin,James,Elijah,Hurdsfield,England,27,September,1842,1935,92,NULL,NULL,NULL
+CEM013,Drew,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,no,plaque,210
+CEM014,Holzberger,Barbara,NULL,NULL,Bavaria,NULL,NULL,1822,1899,76,NULL,NULL,NULL
+CEM015,Holzberger,Michael,NULL,Kembach,Bavaria,28,September,1808,1881,72,NULL,NULL,NULL
+CEM016,Lutzlow,Charles,Herman,NULL,NULL,5,September,1887,1888,0,NULL,NULL,NULL
+CEM017,Marshall,Herbert,Ernest,NULL,Australia,19,June,1904,1905,1,yes,gravestone,NULL
+CEM018,Boyland,Courtney,NULL,NULL,NULL,21,October,1864,1864,0,NULL,NULL,NULL
+CEM019,Grenier,William,Leichhardt,NULL,NULL,13,December,1854,1930,75,yes,gravestone,NULL
+CEM020,King,Thomas,NULL,Devonshire,England,1,March,1818,NULL,NULL,no,plaque,186
+CEM021,King,Ann,NULL,Devonshire,England,NULL,NULL,NULL,1880,66,no,plaque,186
+CEM022,Earley,George,NULL,NULL,NULL,NULL,NULL,NULL,1874,NULL,NULL,NULL,NULL
+CEM023,Weeks,Henry,NULL,Devonshire,England,NULL,NULL,NULL,1910,84,NULL,NULL,NULL
+CEM024,Copas,Robert,Werner,NULL,NULL,NULL,NULL,NULL,1994,41,no,plaque,NULL
+CEM025,Boyland,William,Henry,NULL,Australia,NULL,NULL,NULL,1950,89,yes,plaque,NULL
+CEM026,Westaway,Margaret,NULL,Wilsons Promontory,Australia,16,September,1846,1910,64,yes,gravestone,NULL
+CEM027,Hahm,Leopold,NULL,Brandenburg,Prussia,NULL,NULL,NULL,1893,53,yes,gravestone,NULL
+CEM028,Grenier,Volney,NULL,Kororareka,New Zealand,NULL,NULL,NULL,1859,16,yes,gravestone,NULL
+CEM029,Rookwood,Thirza,NULL,Salford,England,NULL,NULL,NULL,1934,51,no,plaque,NULL
+CEM030,Rookwood,William,NULL,Lancashire,England,NULL,NULL,NULL,1920,40,no,plaque,NULL
