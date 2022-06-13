@@ -1,0 +1,83 @@
+---
+---
+---
+
+### Readme - Thematic Coding (Task 3)
+
+### Deane Andrew McLennan - June 2022
+
+*This dataset was created using Taguette to analyse instances of crashes at, or involved with, Archerfield Aerodrome during the period of 1931-1946. The source material was various newspapers extracted from the website [Trove](http://trove.nla.gov.au).*
+
+The tags used for the of process of thematic analysis are:
+
+-   `1931` - Year 1931
+
+-   `1932` - Year 1932
+
+-   `1933` - Year 1933
+
+-   `1934` - Year 1934
+
+-   `1935` - Year 1935
+
+-   `1936` - Year 1936
+
+-   `1937` - Year 1937
+
+-   `1938` - Year 1938
+
+-   `1939` - Year 1939
+
+-   `1940` - Year 1940
+
+-   `1941` - Year 1941
+
+-   `1943` - Year 1943
+
+-   `Afternoon` - Recorded instance of crash in afternoon and evening.
+
+-   `April` - Month of April.
+
+-   `August` - Month of August.
+
+-   `Craft Destroyed` - If craft was identified as either destroyed or unable to be reused.
+
+-   `Craft Partially Destroyed` - If craft sustained considerable damage, but was not declared destroyed.
+
+-   `Crash` - If the article specifically stated the aircraft crashed.
+
+-   `Damage` - If the article specifically indicated damage.
+
+-   `December` - Month of December.
+
+-   `Engine Stalled`- If the article specifically mentioned the engine was stalled.
+
+-   `Fatalities - Multiple (23)` - Unique identifier for mass casualty event.
+
+-   `Fatality` - If crash result in a fatality.
+
+-   `February` - Month of February.
+
+-   `Fog` - If fog was described as a contributing factor.
+
+-   `Injury` - If injury was mentioned, regardless of severity.
+
+-   `June` - Month of June.
+
+-   `Landed/ Crash at Airfield` - If article described crash on the airfield grounds.
+
+-   `Landed/ Crashed outside Airfield` - If article described crash outside the airfield grounds.
+
+-   `March` - Month of March.
+
+-   `May` - Month of May.
+
+-   `Morning` - Recorded instance of crash in morning.
+
+-   `Non Injury` - If article specifically indicated *no* injury.
+
+-   `Pilot Error` - If article identified pilot was at fault.
+
+-   `September` - Month of September.
+
+-   `Unknown Cause` - If article stated an unknown cause for the crash.

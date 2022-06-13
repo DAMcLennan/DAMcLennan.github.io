@@ -1,0 +1,783 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#">
+    <bib:Illustration rdf:about="https://qimagery.information.qld.gov.au/">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Council</foaf:surname>
+                        <foaf:givenName>Brisbane City</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2172"/>
+        <link:link rdf:resource="#item_2129"/>
+        <dc:title>Aerial Imagery - Archerfield Airport and Cemetery (and Surrounds)</dc:title>
+        <dcterms:abstract>Aerial Photograph</dcterms:abstract>
+        <z:medium>Black and White Photograph</z:medium>
+        <dc:date>1946</dc:date>
+        <z:archive>Qimagery</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://qimagery.information.qld.gov.au/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Public Domain</dc:rights>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2172">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;This image is limited by the fact it does not show the actual aerodrome (left of image) but does show the main aircraft hangars, and the cemetery.&lt;/p&gt;
+&lt;p&gt;Further, the general feel of Archerfield in the 1930s is very apparent - agricultural, sparsely populated and occupied.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Aerial surveys of infrastructure and assets have been important to Queensland, and are recorded in the digital repository QImagery. While this series was designed to survey the entirety of Brisbane, it allows insight into the landscape of the city, including key infrastructure. The photograph captures the sparse landscape that abuts the eastern perimeter of the airfield, but also the agricultural holdings on nearby Beaudesert Road. In this circumstance, the camera was affixed to an aircraft and pursued multiple ‘runs’ across the city. Photographs of this nature assist in reconstructing the urban layout of a city, but also the types of farming, or cropping, that may have been operating in the area prior to urbanisation.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2129">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2129/ADA00136692.JPG"/>
+        <dc:title>ADA00136692.JPG</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="https://catalogue.nla.gov.au/Record/4602059">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Australia</foaf:surname>
+                        <foaf:givenName>Commonwealth of</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2182"/>
+        <link:link rdf:resource="#item_2133"/>
+        <dc:title>Decoy aircraft Archerfield</dc:title>
+        <z:medium>B&amp;W Photograph</z:medium>
+        <dc:date>1940-1945</dc:date>
+        <z:archive>National Library of Australia</z:archive>
+        <dc:coverage>Digital</dc:coverage>
+        <z:libraryCatalog>MAP Aerial Photograph Collection</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>G 56 15 193</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://catalogue.nla.gov.au/Record/4602059</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2182">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;The notation at the top of the image is suggestive this may have been a wartime photograph, or related to wartime activities.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The NLA states this photograph was taken in the first half of the 1940s, and the title and notation appear to imply a wartime purpose. As this photograph is more angular and higher, it allows a renewed perspective of the immediate northern area, as well as the sparsity of the airfield area. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2133">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2133/HINQ302-image-001.png"/>
+        <dc:title>HINQ302-image-001.png</dc:title>
+        <link:type>image/png</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="http://www.environment.gov.au/cgi-bin/heritage/photodb/imagesearch.pl?proc=detail;barcode_no=rt44916">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Government</foaf:surname>
+                        <foaf:givenName>Australian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2177"/>
+        <link:link rdf:resource="#item_2135"/>
+        <dc:title>Archerfield Airport Heritage Precinct</dc:title>
+        <z:medium>Colour Photograph</z:medium>
+        <dc:date>Unknown</dc:date>
+        <z:archive>Department of Agriculture, Water, and the Environment</z:archive>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>RT44916</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.environment.gov.au/cgi-bin/heritage/photodb/imagesearch.pl?proc=detail;barcode_no=rt44916</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Copyright (c) Department of Agriculture, Water, and the Environment</dc:rights>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2177">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;This photograph appears to be highlighting the architectural aspects of the main building.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;It is possible this photograph was taken to highlight the frontal features of the main airport building, as well as express the unique architectural qualities. Unlike the majority of the photographs, this is taken on the air-side property, and on the taxiing tarmac area. Any other angle of this photograph would dispossess the main features of the building, and would more than likely only show the tarmac areas. As the building is a unique, heritage listed entity, visual documentation of this kind would be common. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2135">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2135/HINQ302-image-002.jpg"/>
+        <dc:title>HINQ302-image-002.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="https://hdl.handle.net/10462/deriv/97933">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Unknown</foaf:surname>
+                        <foaf:givenName>Unknown</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2191"/>
+        <link:link rdf:resource="#item_2137"/>
+        <dc:title>Refuelling a biplane at Archerfield</dc:title>
+        <z:medium>B&amp;W Photograph</z:medium>
+        <dc:date>Ca. 1935</dc:date>
+        <z:archive>State Library of Queensland</z:archive>
+        <dc:coverage>John Oxley Library</dc:coverage>
+        <z:libraryCatalog>189430</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://hdl.handle.net/10462/deriv/97933</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2191">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;This scene suggests that work on aircraft is both a laborious, but also a teamwork process. It continues the theme of highlighting the differences in safety and security concerns in the modern era.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The dated of approximately 1935 implies this would be a late-stage aircraft, as the war that was to commence in a few years involved far more technologically advanced vehicles. Nonetheless, the most prominent aspects of the photograph are the vehicles - airplane, and truck. The photographer’s intent is difficult to determine aside from possibly capturing an air-side scene, but it is worth nothing that the dress of the men involved varies. We have the mechanical clothing of the two in the middle, a ‘clerical’ look of the two on the left, and a more authoritative appearance for the man on the far right, who does not seem to be involved in the physical labour, unlike all the others. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2137">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2137/HINQ302-image-003.jpg"/>
+        <dc:title>HINQ302-image-003.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="http://hdl.handle.net/10462/deriv/118432">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wooley</foaf:surname>
+                        <foaf:givenName>A</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2181"/>
+        <link:link rdf:resource="#item_2140"/>
+        <dc:title>Control tower at Archerfield Airport, 1964</dc:title>
+        <z:medium>Colour Photograph</z:medium>
+        <dc:date>1964</dc:date>
+        <z:archive>State Library of Queensland</z:archive>
+        <dc:coverage>John Oxley Library</dc:coverage>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>6668-0001-0017</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://hdl.handle.net/10462/deriv/118432</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Copyright (c)</dc:rights>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2181">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;This photograph, not only showing the control tower, suggests what a standard day at the aerodrome would be like, and the differences in security to the present day.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;This 1964 photograph shows the main operational building at the airport, and the control tower that was atop it which is no longer there today. Unlike other photographs previously considered, it is not taken from the tarmac, providing a different angle and perspective of the building. What stands out in particular is the lack of security around the perimeter of the air-side area, even if this was not the photographer’s original intent. Building on the previous images, this continues to demonstrate the unique architectural qualities of the building. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2140">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2140/HINQ302-image-004.jpg"/>
+        <dc:title>HINQ302-image-004.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/35427/3">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Council</foaf:surname>
+                        <foaf:givenName>Brisbane City</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2183"/>
+        <link:link rdf:resource="#item_2142"/>
+        <dc:title>Deputy Mayor Alderman Phil Denman farewelling &quot;City of Brisbane&quot; Aircraft taking part in the Bicentenary Round Australia Air Race</dc:title>
+        <z:medium>Colour Photograph</z:medium>
+        <dc:date>1988</dc:date>
+        <z:archive>Brisbane City Council Archives</z:archive>
+        <dc:coverage>Images Brisbane</dc:coverage>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BCC-B35-6026.10</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/35427/3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2183">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;The lack of colour suggests this photograph was taken in the 1960s or 1970s but was taken in 1988. It appears to be a promotional photograph.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;On initial glance, the black and white nature of this photograph may confuse or distract. The attire of the men beside the plane could be seen as from the 1970s, but was taken in 1988. Contextual clues such as the vehicles, type of plane, and intention of photograph, would otherwise reveal it. The photograph was part of a series of promotional material for the Brisbane City Council, with the focus on the plane, and not so much the airport. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2142">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2142/HINQ302-image-005.jpg"/>
+        <dc:title>HINQ302-image-005.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24560/0">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Council</foaf:surname>
+                        <foaf:givenName>Brisbane City</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2189"/>
+        <link:link rdf:resource="#item_2144"/>
+        <dc:title>Parish Map - proposed Abattoirs Site, Blunder, Oxley Creeks, 1926</dc:title>
+        <z:medium>Map</z:medium>
+        <dc:date>1912-1926</dc:date>
+        <z:archive>Brisbane City Council Archives</z:archive>
+        <dc:coverage>Images Brisbane</dc:coverage>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BCA0481</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24560/0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Public Domain</dc:rights>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2189">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;As a map, this places Archerfield in not only its geographical context, but also in the historical framework of the area being previously considered for noxious industries.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Mapping of Queensland has been a consistent feature since the early 19th century. Chain maps such as this one were used to not only outline the city, but also to plan for the future, as was done in this instance. Maps like these provide insight into the size of properties across the city, and when compared to present day mapping etcetera, show vast differences. Nonetheless, in the instance of this map, it can be seen that prior to being developed into an airfield, this area (known as Oxley or Rocklea at the time) was earmarked for noxious industries. While this did change for the airport, the adjoining southern suburb later to be known as a Willawong would be the site of Brisbane City Council’s noxious waste dump. &lt;/p&gt;
+&lt;p&gt;A minor observation in historical research is the spelling of ‘shewing’ on the map. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2144">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2144/HINQ302-image-006.jpg"/>
+        <dc:title>HINQ302-image-006.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="#item_2147">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Archives of Australia</foaf:surname>
+                        <foaf:givenName>National</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2190"/>
+        <link:link rdf:resource="#item_2146"/>
+        <dc:title>[Photograph] [Directorate of Flying Safety] - Accident to: Mustang A68-197 -Unit: 23 Squadron - Place: Archerfield - Date: 17 January 1955 - Pilot: Sgt J C Williams A26353</dc:title>
+        <z:medium>B&amp;W Photograph</z:medium>
+        <dc:date>1955</dc:date>
+        <z:archive>National Archives of Australia</z:archive>
+        <dc:coverage>Digital</dc:coverage>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>7648678</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2190">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;The lack of surrounding context makes it hard to understand whether this plane has either crashed, or suffered a malfunction on the airstrip.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;As it is held by the NAA, this photograph was likely taken as evidence for one of the Commonwealth’s aviation departments. The title - and very style of plane - implies it was an air force plane that has suffered damage of some kind. The purpose of such a photograph is to record an event, or aftermath of one, which limits the purpose of the photo including any other features. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2146">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2146/HINQ302-image-007.jpg"/>
+        <dc:title>HINQ302-image-007.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="http://hdl.handle.net/10462/deriv/120361">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jackman</foaf:surname>
+                        <foaf:givenName>George</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2184"/>
+        <link:link rdf:resource="#item_2148"/>
+        <dc:title>Dutch Douglas aircraft at Archerfield, Brisbane.</dc:title>
+        <z:medium>Colour Photograph</z:medium>
+        <dc:date>Unknown</dc:date>
+        <z:archive>State Library of Queensland</z:archive>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>7708-0001-0090</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://hdl.handle.net/10462/deriv/120361</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Public Domain</dc:rights>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2184">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;This scene appears to be prior to a plane taking off, and perhaps friends and family saying goodbye. Also, there is curiosity among the crowd in looking at the plane itself.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;This photograph offers a lot for the historian. Not only does it provide a close, high quality impression of a parked aircraft, but it further develops the theme of public curiousity, as well as immediate presence of the plane. The gathered crowd are either boarding or disembarking, with the remaining people taking in the view of the plane. A photograph of this nature would be beneficial for those studying period fashions, car history, or aircraft history, particuarly those of the Dutch East Indies, where the plane is presumed to have been based. The photographer may have wanted to capture the ‘bustling activity’ that surrounded air travel. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2148">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2148/HINQ302-image-008.jpg"/>
+        <dc:title>HINQ302-image-008.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="#item_2151">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Immigration</foaf:surname>
+                        <foaf:givenName>Department of</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2178"/>
+        <link:link rdf:resource="#item_2150"/>
+        <dc:title>Au Leang - Nationality: Chinese - Arrived Archerfield on American Plane 14 April 1946</dc:title>
+        <z:medium>Scan/ Black and White Photograph</z:medium>
+        <dc:date>1946</dc:date>
+        <z:language>English</z:language>
+        <z:archive>National Archives of Australia</z:archive>
+        <z:libraryCatalog>BP25/1</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>4065059</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Public Domain</dc:rights>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2178">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;This photo is highly representative of the time, and limitations of the technological recording of immigration. It provides a degree of insight into the times.&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2150">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2150/HINQ302-image-009.jpg"/>
+        <dc:title>HINQ302-image-009.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+        <dc:description>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;This photo is highly representative of the time, and limitations of the technological recording of immigration. It provides a degree of insight into the times.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;This photograph was selected for analysis in concordance with the datasets in Task 1. As Archerfield served as the domestic and international airport for Brisbane until the opening of the new Eagle Farm Aerodrome in 1947, inbound flights were subject to immigration and customs controls. This document (and associated photograph) were standard practice for inbound aliens. Not only are these invaluable for tracing genealogical histories, but provides certain insights to events both domestically, and internationally. For example, the address listed shows U.S. Army Camp, Victoria Park, suggesting that the military was still encamped in this part of Brisbane, despite the war having ended. Secondly, this individual was an alien, but served with the American forces in the Philippines, and was awaiting discharge, which provides insight into the experiences of foreign nationals during the wartime period. Despite being produced for the sake of record-keeping, it allows a glimpse into historical events, as well as context-building. &lt;/p&gt;
+&lt;/div&gt;</dc:description>
+    </z:Attachment>
+    <bib:Illustration rdf:about="#item_2153">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McLennan</foaf:surname>
+                        <foaf:givenName>Deane Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2186"/>
+        <link:link rdf:resource="#item_2152"/>
+        <dc:title>God's Acre Cemetery (2020)</dc:title>
+        <z:medium>Colour Photograph</z:medium>
+        <dc:date>28/12/2020</dc:date>
+        <z:archive>Private Collection</z:archive>
+        <dc:rights>Copyright (c) Deane Andrew McLennan</dc:rights>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2186">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;This photo is a panoramic shot of the God’s Acre Cemetery and highlights the contrast of the graves with the immediacy of the surrounding businesses, a stark contrast to older photographs that showed empty land and light housing.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;This photograph was taken by the author as a part of research for HIST333 that was eventually abandoned. The photograph was taken with the intent of contextualising the cemetery’s size with its spatial placement amidst industry, and airport activities, creating a contrast of the 19th century masonry work with 21st century architectural, and landscaping concepts. It captures the disorganised layout of the cemetery, and if changed angle, would instead photograph the surrounding businesses. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2152">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2152/20201228_081046.jpg"/>
+        <dc:title>20201228_081046.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="#item_2155">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McLennan</foaf:surname>
+                        <foaf:givenName>Deane Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2187"/>
+        <link:link rdf:resource="#item_2154"/>
+        <dc:title>God's Acre Cemetery (2020) Signpost</dc:title>
+        <z:medium>Colour Photograph</z:medium>
+        <dc:date>28/12/2020</dc:date>
+        <z:archive>Private Collection</z:archive>
+        <dc:rights>Copyright (c) Deane Andrew McLennan</dc:rights>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2187">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;On initial glance, this serves as a photograph of a signpost in the cemetery, but also provides an insight into the history of not just the cemetery, but the surrounding areas.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;This photograph was taken by the author as a part of research for HIST333 that was eventually abandoned. The sign is modern, and looks toward Beatty Road, with the cemetery gate visible in the background, as well as numerous plaques (mentioned in the dataset for Task 1). It is in essence, a secondary source embedded with a primary source. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2154">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2154/20201228_074743.jpg"/>
+        <dc:title>20201228_074743.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="https://www.ozatwar.com/arch@war.htm">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jackson</foaf:surname>
+                        <foaf:givenName>Rod</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2176"/>
+        <link:link rdf:resource="#item_2156"/>
+        <dc:title>Archerfield (untitled)</dc:title>
+        <z:medium>B&amp;W Photograph</z:medium>
+        <dc:date>Unknown</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.ozatwar.com/arch@war.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Copyright (c) Rod Jackson</dc:rights>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2176">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Despite its sizing, this photograph helps establish operational aspects of the airport, as well as its placement in Brisbane’s suburban framework.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Building upon the previous photograph, this shows the ANA hangar, but more of the operational area of the airport. As a wartime asset, visual cataloging of airfields was common practice. In this photograph, it appears the photographer was trying to capture the primary operational area of the airport itself, and associated activities. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2156">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2156/HINQ302-image-010.jpg"/>
+        <dc:title>HINQ302-image-010.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="https://www.ozatwar.com/ozatwar/wmyers.htm">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hall</foaf:surname>
+                        <foaf:givenName>Bruce</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2174"/>
+        <link:link rdf:resource="#item_2158"/>
+        <dc:title>Archerfield (untitled)</dc:title>
+        <z:medium>B&amp;W Photograph</z:medium>
+        <dc:date>Unknown</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.ozatwar.com/ozatwar/wmyers.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Unknown</dc:rights>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2174">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;The absence of a date makes consideration much more difficult in this photograph. However, it reinforces the geography that surrounded the airfield in the first half of the twenty-first century. There is more structure and organisation to this picture.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;This photograph may have been taken by the pilot, or a passenger, in what appears to be a spitfire aircraft. The expansion of the airport buildings is indicative of either being taken during the WW2 period, or in the postwar era. If it is in the postwar period, it would presumably be prior to the postwar urbanisation that occured during the 1950s and 1960s of Brisbane. Moreover, in the upper middle of the photo we can see one of the wartime quarries that was used. The forested area in the upper portion of the frame would become the residential area of Acacia Ridge. Had the photograph been taken on a different angle, insight would be given as to how the landscape appeared in the direction of Rocklea (to the west) or Coopers Plains (to the east), which were slowly emerging as industrialised parts of Brisbane. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2158">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2158/HINQ302-image-011.jpg"/>
+        <dc:title>HINQ302-image-011.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="#item_2161">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hall</foaf:surname>
+                        <foaf:givenName>Bruce</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2175"/>
+        <link:link rdf:resource="#item_2160"/>
+        <dc:title>Archerfield (untitled)</dc:title>
+        <z:medium>B&amp;W Photograph</z:medium>
+        <dc:date>Unknown</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.ozatwar.com/ozatwar/wmyers.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Unknown</dc:rights>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2175">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;This photo provides more detail into the surrounding landscape, but the densification of suburbs to the northeast of the airfield.&lt;/p&gt;
+&lt;p&gt;Moreover, it provides insight to the architectural aspects of the airfield buildings.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;This is a valuable photograph, albeit undated, as it offers the historian a look at the architectural qualities of the airport in a broader sense. The type of vehicles, and development of the airport suggests a late 1950s or 1960s time period. Had this photograph been taken looking the other direction, there may not have been substantially as much detail, as the southern buildings are distant from those in the photograph. A photograph of this nature helps to contextualise the landscape, but not from the ‘birds eye’ view of the aerial surveys, and particularly expresses the agricultural areas in the airport’s vicinity, with the presence of what appear to be cattle in the surrounding fields. &amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2160">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2160/HINQ302-image-012.jpg"/>
+        <dc:title>HINQ302-image-012.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="#item_2163">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Government</foaf:surname>
+                        <foaf:givenName>Queensland</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2173"/>
+        <link:link rdf:resource="#item_2162"/>
+        <dc:title>Aerial survey - Archerfield and surrounds</dc:title>
+        <z:medium>Colour Photograph</z:medium>
+        <dc:date>11/03/2002</dc:date>
+        <z:archive>Qimagery</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://qimagery.information.qld.gov.au/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Copyright (c)</dc:rights>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2173">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;In contrast to the previous aerial image, this photograph is denser in content, namely due to it’s height. However, this shows the sense and scale of development that has since encroached the airfield since the 1930s.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Similar to the previous image, the aerial survey shows not only the airport but also the surrounding context. The height of the survey limits the quality of the image, but does increase the quantification, which is evident in the surrounding industry, and then expansive residential developments in all directions. Images of this type are representative of a comparative nature, allowing a review of past, present, and latter images, for varying purposes. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2162">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2162/HINQ302-image-013.JPG"/>
+        <dc:title>HINQ302-image-013.JPG</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="https://queenslandplaces.com.au/exhibit/book/ps388">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Council</foaf:surname>
+                        <foaf:givenName>Brisbane City</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2180"/>
+        <link:link rdf:resource="#item_2164"/>
+        <dc:title>Brisbane's Fine Airport</dc:title>
+        <z:medium>B&amp;W Photograph</z:medium>
+        <dc:date>1934</dc:date>
+        <z:archive>Queensland Places</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://queenslandplaces.com.au/exhibit/book/ps388</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Unknown</dc:rights>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2180">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;The aerodrome in its infancy, and the cemetery visible in the centre. Considerable differences to the modern era are apparent in the social construct: the crowd is not only on the tarmac, but surrounding the aircraft.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The dating of this, based off the subtitle, implies a 1934 recording. In the centre of the photograph is God’s Acre Cemetery, and the attending crowd is witnessing Charles Kingsford Smith’s landing. &amp;nbsp;This photo was most likely taken from another aircraft, looking northwest across the airfield. Had it been taken on any other angle, it would have captured the airport or the surrounding lands, but completely omit the moment being experienced. Evidently, Smith’s popularity and the attention given to his flying is captured with the amount of vehicles, and people present at the time. Also, the cemetery is well disclosed, and certain gravestones are quite visible in the contrast of the fencing greenery. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2164">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2164/HINQ302-image-014.jpg"/>
+        <dc:title>HINQ302-image-014.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="https://hdl.handle.net/10462/photostd/00563218">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Unknown</foaf:surname>
+                        <foaf:givenName>Unknown</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2188"/>
+        <link:link rdf:resource="#item_2166"/>
+        <dc:title>Ivy May Pearce in her air craft, Archerfield, 1935</dc:title>
+        <z:medium>B&amp;W Photograph</z:medium>
+        <dc:date>1935</dc:date>
+        <z:archive>State Library of Queensland</z:archive>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>28860-0017-0002</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hdl.handle.net/10462/photostd/00563218</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Public Domain</dc:rights>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2188">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;This photograph feels staged - but not in a negative sense, rather to invite the viewer to see a pilot in their vehicle, but not dressed in their flying gear.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;It is very likely that this photograph was taken as a means of either promotion, or publicity. Ivy Pearce was a pilot, and much like her peers, was often photographed in or with their planes. The choice of clothing implies that she was more than likely not going to fly, and the photograph was strictly for publicity purposes. Unfortunately, there is considerable limitations on the photograph - it is possibly within a hangar (based on background analysis), but where, and what the full context is, remains difficult to infer. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2166">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2166/HINQ302-image-015.jpg"/>
+        <dc:title>HINQ302-image-015.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="https://hdl.handle.net/10462/photostd/00877337">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Unknown</foaf:surname>
+                        <foaf:givenName>Unknown</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2179"/>
+        <link:link rdf:resource="#item_2168"/>
+        <dc:title>Australian National Airways plane on the tarmac at Archerfield Aerodrome</dc:title>
+        <z:medium>B&amp;W Photograph</z:medium>
+        <dc:date>1935</dc:date>
+        <z:archive>State Library of Queensland</z:archive>
+        <dc:coverage>John Oxley Library</dc:coverage>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>30677-0001-0033</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hdl.handle.net/10462/photostd/00877337</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Public Domain</dc:rights>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2179">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;The quality of this photograph is of hindrance to interpretation. The ANA ceased operating in the late 1950s, but the clothing does not appear to represent this period.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;This is a difficult photograph to both contextualise, and interpret, and serves as a reminder of the difficulties that can face historical analysis. If taken at Archerfield, it would suggest the photographer is standing outside the main building and facing the taxi area of the tarmac. However, the clothing worn in the photograph feels anachronistic to the plane itself, which belonged to the ANA fleet that ceased operating in the late 1950s. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2168">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2168/HINQ302-image-016.jpg"/>
+        <dc:title>HINQ302-image-016.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="https://hdl.handle.net/10462/deriv/208183">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Unknown</foaf:surname>
+                        <foaf:givenName>Unknown</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <dcterms:isReferencedBy rdf:resource="#item_2185"/>
+        <link:link rdf:resource="#item_2170"/>
+        <dc:title>Dutch KNILM crew at Archerfield Airport, 1938</dc:title>
+        <z:medium>B&amp;W Photograph</z:medium>
+        <dc:date>1938</dc:date>
+        <z:archive>State Library of Queensland</z:archive>
+        <dc:coverage>John Oxley Library</dc:coverage>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>204002</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://hdl.handle.net/10462/deriv/208183</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Public Domain</dc:rights>
+    </bib:Illustration>
+    <bib:Memo rdf:about="#item_2185">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;These two men seem to be pilots, having some sort of discussion on the airfield itself. The clothing and headgear implies they are pilots, though that is not a surety.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;There is difficulty in contextualising this photograph. Behind the men, presumably pilots, can be see the QANTAS hangar, implying this was taken on the northern end of the airport operations. The clothing implies that they may be pilots, and as they are Dutch, may have been considered a novelty or a pair of curious visitors that the photographer wanted to capture. If the photographer had panned out further, it is possible the scene would have shown the aircraft they were associated with (tip of right wing is visible in left of frame). A conveyance of the prestige, and professionalism of the air industry, may have been the intent. &lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_2170">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2170/HINQ302-image-017.jpg"/>
+        <dc:title>HINQ302-image-017.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+</rdf:RDF>

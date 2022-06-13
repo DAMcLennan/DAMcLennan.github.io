@@ -1,0 +1,75 @@
+### Readme - Datasets (Task 1)
+
+### Deane Andrew McLennan - June 2022
+
+#### Dataset #1
+
+*This dataset is a sample of interments in the God's Acre Cemetery, Beatty Road, Archerfield.*
+
+*Sources: <https://austcemindex.com/cemetery?cemid=2520> and <https://www.foga.org.au/graves/list.htm>.*
+
+`key_ID` = Unique identifier for each record entered into spreadsheet.
+
+`family_name` = Surname of individual.
+
+`given_name` = First name of individual.
+
+`middle_name` = Middle name of individual (if applicable).
+
+`birthplace_location` = Location of birthplace (town or city; if not listed, entered as NULL).
+
+`birthplace_country` = Country of birth; if listed as local area or Queensland, designated as Australia.
+
+`birth_day` = Date of birth (day only).
+
+`birth_month` = Date of birth (month only).
+
+`birth_year` = Year of birth.
+
+`death_year` = Year of death only.
+
+`death_age` = Age at death (anyone below age of one is listed as 0)
+
+`monument` = If there is a visual reference to a grave monument.
+
+*The following two are only answerable based on upon the* monument *variable.*
+
+`type` = What type of monument (i.e., plaque, gravestone, or unmarked)
+
+`plaque_number` = If plaque has a number, what number.
+
+#### Dataset #2 
+
+*This dataset is formulated on information compiled from the National Archives of Australia and is a sample dataset of immigration paperwork at Archerfield Airport during 1945 and 1946.*
+
+`key_ID` = Unique identifier for each record entered into spreadsheet.
+
+`nationality` = Nationality of immigrant.
+
+`arrival_day` = Date of arrival (day only).
+
+`arrival_month` = Date of arrival (month only).
+
+`arrival_year` = Date of arrival (year only).
+
+`first_name` = Given name of individual.
+
+`middle_name` = Middle name of individual.
+
+`last_name` = First (if applicable) surname of individual.
+
+`last_name_extra` = If dual-surname, second surname of individual.
+
+`departed_city` = City of departure.
+
+`departed_country` = Country of departure.
+
+`arrival_airport` = Airport of arrival in Australia.
+
+`birth_year` = Birth year (only) of individual.
+
+`departed_month` = Month of departure from Australia.
+
+`departed_year` = Year of departure from Australia.
+
+`departed_vessel` = Name of vessel travelled on to depart Australia.
